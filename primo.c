@@ -16,6 +16,7 @@ int main (){
             }
         }
     }
+
     if (prim == 1){
         printf("El numero es primo\n");
     } else {
